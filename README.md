@@ -17,3 +17,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 * Redux
 * React-icons
 * Moment.js
+
+# ScreenShots
+
+https://github.com/shreeyansh-b/notesapp/blob/master/Screenshot%20(277).png
+
+https://github.com/shreeyansh-b/notesapp/blob/master/Screenshot%20(278).png
+
+https://github.com/shreeyansh-b/notesapp/blob/master/Screenshot%20(279).png
+
+https://github.com/shreeyansh-b/notesapp/blob/master/Screenshot%20(281).png
