@@ -1,0 +1,9 @@
+export const LOADSAVEDNOTES = 'LOADSAVEDNOTES';
+export const ADDNOTE = 'ADDNOTE';
+export const VIEWNOTE = 'VIEWNOTE';
+export const EDITNOTE = 'EDITNOTE';
+export const DELETENOTE = 'DELETENOTE';
+export const DISCARD = 'DISCARD';
+export const ADDSTATE = 'ADDSTATE';
+export const EDITSTATE = 'EDITSTATE';
+export const CURRENTNOTE = 'CURRENTNOTE';

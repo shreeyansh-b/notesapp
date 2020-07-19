@@ -2,37 +2,38 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.react-icons{
+  vertical-align: middle;
+  height: 22px;
+  width: 22px;
+  margin-bottom: 2px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.react-calendar{
+  border: none;
+  font-size: 1rem;
+}
+.react-calendar__navigation{
+  margin-bottom: 5px;
+
+}
+.react-calendar__month-view__weekdays__weekday > abbr{
+  text-decoration: none;
+}
+
+@media screen and (max-width: 450px){
+  .react-calendar{
+    font-size: 0.8rem;
+    max-width: 280px;
+  }
+  .btn{
+    padding: 2px 5px;
+  }
+  h3{
+    font-size: 1.3rem;
+  }
+  h1{
+    font-size: 2rem;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}

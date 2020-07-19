@@ -1,0 +1,18 @@
+.modalFooter{
+    justify-content: center;
+}
+.modalTitle{
+    margin: 0 auto;
+}
+.modalTextArea{
+    width: 90%;
+    margin: 0 auto;
+}
+.modalBody{
+    text-align: center;
+}
+.modalHeaderTitle{
+    @media screen and (max-width: 450px){
+        font-size: 1.2rem;
+      }
+}
