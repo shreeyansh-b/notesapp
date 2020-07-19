@@ -22,10 +22,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ![Alt text](https://github.com/shreeyansh-b/notesapp/blob/master/Screenshot%20(277).png?raw=true "Optional Title")
 
+![Alt text](https://github.com/shreeyansh-b/notesapp/blob/master/Screenshot%20(278).png?raw=true "Optional Title")
+
+![Alt text](https://github.com/shreeyansh-b/notesapp/blob/master/Screenshot%20(279).png?raw=true "Optional Title")
+
+![Alt text](https://github.com/shreeyansh-b/notesapp/blob/master/Screenshot%20(281).png?raw=true "Optional Title")
 
 
-https://github.com/shreeyansh-b/notesapp/blob/master/Screenshot%20(278).png
 
-https://github.com/shreeyansh-b/notesapp/blob/master/Screenshot%20(279).png
 
-https://github.com/shreeyansh-b/notesapp/blob/master/Screenshot%20(281).png
+
+
