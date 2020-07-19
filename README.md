@@ -20,7 +20,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # ScreenShots
 
-https://github.com/shreeyansh-b/notesapp/blob/master/Screenshot%20(277).png
+![Alt text](https://github.com/shreeyansh-b/notesapp/blob/master/Screenshot%20(277).png?raw=true "Optional Title")
+
+
 
 https://github.com/shreeyansh-b/notesapp/blob/master/Screenshot%20(278).png
 
